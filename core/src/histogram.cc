@@ -1,5 +1,5 @@
 #include "prometheus/histogram.h"
-
+#include <limits>
 #include <algorithm>
 #include <cassert>
 #include <iterator>
